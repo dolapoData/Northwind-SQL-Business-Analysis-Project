@@ -31,6 +31,7 @@ The company works with a wide range of suppliers, which reduces dependence on a 
 
 Overall, the business is performing well but can improve by focusing on data accuracy, operational efficiency, customer retention, and strategic expansion into high-performing regions.
 
+
 ## DATASET
 
 The datset used is the Northwind SQLite database which was downloaded from kaggle. It contains retail business data across multiple tables, including:
@@ -43,6 +44,19 @@ The datset used is the Northwind SQLite database which was downloaded from kaggl
 * CategoriesThe dataset used is the Northwind database.
 
 [Northwind SQLite database](https://github.com/jpwhite3/northwind-SQLite3)
+
+
+## TOOLS & TECHNOLOGIES
+
+* SQL (SQLite Online)
+* Excel (for analysis and visualisations)
+
+
+## PROJECT WORKFLOW
+
+### DATABASE ACCESSING
+
+* Downloaded the 
 
   
 
