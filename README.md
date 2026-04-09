@@ -11,7 +11,7 @@ The project aims to :
 * Draw insights that can support business decision-making
 * Build a well documented, reproducible SQL project using Excel visualisations
 
-## Executive Summary
+## EXECUTIVE SUMMARY
 
 This analysis of the Northwind dataset provides insight into customer activity, product performance, and overall business operations.
 
