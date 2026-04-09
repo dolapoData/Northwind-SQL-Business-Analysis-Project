@@ -1,9 +1,11 @@
 # Northwind Business Analysis Project
 
 ## OVERVIEW
+
 This project is a hands-on SQL data analysis case study built around the Northwind database,a standard retail datset. It demosrates how to query, extract ,analyse and present business insights from a relational database using SQL. This project covers real-world data analysis tasks , from querying and exploring data to uncovering meaningful business insights.
 
 ## OBJECTIVES
+
 The project aims to :
 * Import and profile the Northwind dataset
 * Understand the relationships between tables in the Northwind datasbase
@@ -28,6 +30,21 @@ Operational issues were also identified. Missing region data in several records 
 The company works with a wide range of suppliers, which reduces dependence on a single source but may also create inefficiencies in cost management.
 
 Overall, the business is performing well but can improve by focusing on data accuracy, operational efficiency, customer retention, and strategic expansion into high-performing regions.
+
+## DATASET
+
+The datset used is the Northwind SQLite database which was downloaded from kaggle. It contains retail business data across multiple tables, including:
+
+* Customers
+* Orders
+* OrderDetails
+* Products
+* Suppliers
+* CategoriesThe dataset used is the Northwind database.
+
+[Northwind SQLite database](https://github.com/jpwhite3/northwind-SQLite3)
+
+  
 
 
 
