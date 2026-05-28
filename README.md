@@ -56,8 +56,35 @@ The datset used is the Northwind SQLite database which was downloaded from kaggl
 
 ### DATABASE ACCESSING
 
-* Downloaded the 
+* Downloaded the Northwind [.sqlite](https://www.kaggle.com/datasets/munawarsaudagar/northwind-2000-sqlite) database from Kaggle
 
+### DATA LOADING
+  
+* Imported the Northwind [.sqlite](https://www.kaggle.com/datasets/munawarsaudagar/northwind-2000-sqlite) database into SQLite Online
+
+* Profiled tables and relationships
+
+### SQL ANALYSIS AND QUERYING
+
+* Wrote and executed queries to answer business-focused questions
+
+* Applied concepts such as:
+
+   - DISTINCT
+   - NULL handling
+   - Aggregate functions (SUM, COUNT, AVG)
+   - GROUP BY
+   - HAVING
+   - Aliasing
+ 
+### DATA EXPORTING
+
+* Exported query results into Microsoft Excel files
+
+### VISUALISATIONS
+
+Created visuals (bar, column, line) using Excel
+Added titles and structured sheets for clarity
   
 
 
