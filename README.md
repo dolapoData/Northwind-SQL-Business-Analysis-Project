@@ -83,8 +83,46 @@ The datset used is the Northwind SQLite database which was downloaded from kaggl
 
 ### VISUALISATIONS
 
-Created visuals (bar, column, line) using Excel
-Added titles and structured sheets for clarity
+* Created visuals (bar, column, line) using Excel.
+  
+* Added titles and structured sheets for clarity.
+
+
+## KEY BUSINESS QUESTIONS SOLVED
+
+1. List of unique countries where customers are located [Q1](#q1-global-distribution-of-customer-base)
+2. All customers who do not have a region assigned [Q2](#q2-incomplete-customer-data)
+3. Total number of orders placed [Q3](#q3-order-volume-overview)
+4. Total revenue using the Order Details table [Q4](#q4-total-revenue-generated)
+5. Total number of products in each category [Q5](#q5-product-performance)
+6. Customers who have placed more than 10 orders [Q6](#q6-high-value-customers)
+7. Average freight cost per customer [Q7](#q7-average-order-value)
+8. Suppliers who supply more than 5 products [Q8](#q8-suppliers-with-multiple-products)
+9. Countries that have more than 5 customers [Q9](#q9-countries-with-high-customer-base)
+10. Total number of orders that have not been shipped yet [Q10](#q10-delayed-or-unshipped-orders)
+
+
+## SKILLS DEMOSTRATED
+
+* SQL querying and database interaction
+* Data cleaning and validation
+* Business-oriented data analysis
+* Data aggregation and summarisation
+* Insight generation and reporting
+* Data visualisation and storytelling
+  
+
+## KEY INSIGHTS
+
+### Customer Geographic Reach
+   Northwind's customers are spread across 21 countries worldwide, with Europe making up the bulk of the customer base, a sign of market depth that also points to untapped potential in other regions.
+
+   - SQL QUERY
+
+```sql
+SELECT DISTINCT Country AS customer_country
+FROM Customers c;
+```
   
 
 
